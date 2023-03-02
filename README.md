@@ -10,4 +10,4 @@
 🤖 Mechanical Engineer at [Suitable Technologies](https://gobe.blue-ocean-robotics.com) (Telepresence Robotics)<br />
 
 #### Interests
-Soccer (Football), Robotics, Psychology, Photography, Traveling, Outdoors, Cooking
+⭐️ Soccer (Football), Robotics, Psychology, Photography, Traveling, Outdoors, Cooking
