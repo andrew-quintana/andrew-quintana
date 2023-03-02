@@ -3,7 +3,7 @@
 #### Taking a gap year to study full time, fostering my transition to software
 
 Now:
-- OMSCS Student at [Georgia Tech](https://omscs.gatech.edu)
+- OMSCS Student at Georgia Institute of Technology
   - Specializations: [Machine Learning](https://omscs.gatech.edu/specialization-machine-learning) & [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)
 
 Then:
