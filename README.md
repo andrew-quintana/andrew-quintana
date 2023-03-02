@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-#### Taking a gap year to study full time, fostering my transition to software
+#### A Cross-Functional Engineer taking a gap year to study computer science
 
 📚 OMSCS Student at Georgia Institute of Technology | Specializations: [Machine Learning](https://omscs.gatech.edu/specialization-machine-learning) & [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)
 
