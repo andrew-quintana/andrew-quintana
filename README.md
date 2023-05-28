@@ -1,6 +1,7 @@
 ### Hi there 👋🏽
 
 #### A Cross-Functional Engineer taking a gap year to study computer science
+🐕 AI Software Engineering Intern at [Transcoder](http://transcoder.live)<br />
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu)<br />
 🎯 Specializations: [Machine Learning](https://omscs.gatech.edu/specialization-machine-learning) & [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)
 
