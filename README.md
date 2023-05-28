@@ -9,6 +9,7 @@
 🍔 System Test Engineer, DRI at [Creator, Inc](https://www.creator.rest) (Culinary Robotics)<br />
 🩺 Product Development Engineer at [Applied Medical](https://www.appliedmedical.com) (Medical Devices)<br />
 🤖 Mechanical Engineer at [Suitable Technologies](https://gobe.blue-ocean-robotics.com) (Telepresence Robotics)<br />
+🎓 Bachelors in Mechanical Engineering at [Miami Univeristy](https://miamioh.edu/cec/) (Minor in Spanish)<br />
 
 #### Interests
 ⭐️ Soccer (Football), Robotics, Psychology, Photography, Traveling, Outdoors, Cooking
