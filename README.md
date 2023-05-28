@@ -12,4 +12,4 @@
 🎓 Bachelors in Mechanical Engineering at [Miami Univeristy](https://miamioh.edu/cec/) (Minor in Spanish)<br />
 
 #### Interests
-⭐️ Soccer (Football), Robotics, Psychology, Photography, Traveling, Outdoors, Cooking
+⭐️ Soccer (Football), Robotics, Photography, Traveling, Outdoors, Cooking, Psychology
