@@ -7,7 +7,7 @@
 
 #### Before that...
 🍔 System Test Engineer, DRI at [Creator, Inc](https://www.creator.rest) (Culinary Robotics)<br />
-🩺 Product Development Engineer at [Applied Medical](https://www.appliedmedical.com) (Vertically Integrated Medical Devices)<br />
+🩺 Product Development Engineer at [Applied Medical](https://www.appliedmedical.com) (Medical Devices)<br />
 🤖 Mechanical Engineer at [Suitable Technologies](https://gobe.blue-ocean-robotics.com) (Telepresence Robotics)<br />
 
 #### Interests
