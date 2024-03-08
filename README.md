@@ -5,8 +5,8 @@
 
 #### Currently...
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu) (Remote and Part-Time)<br />
-🤖 Masters Specializations: [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)
-🚗 Personal Project: [Delivery Robot on Nvidia Jetson Nano](https://github.com/andrew-quintana/DeliveryRobot)
+🤖 Masters Specializations: [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)<br />
+🚗 Personal Project: [Delivery Robot on Nvidia Jetson Nano](https://github.com/andrew-quintana/DeliveryRobot)<br />
 
 #### Before that...
 🐕 AI Software Engineering Intern at [Transcoder](http://transcoder.live) (Computer Vision/Deep Learning)<br />
