@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 #### Cross-Functional, Part-Time MSCS Student looking for Work!
-🔎 Robotics Software Engineer or GNC Engineer roles focusing to enable spatial awareness and navigation in robots.
+🔎 Robotics Software Engineer, Robotics System Engineer, or GNC Engineer roles focusing to enable complex systems with spatial awareness, navigation, and more.
 
 #### Currently...
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu) (Remote and Part-Time)<br />
