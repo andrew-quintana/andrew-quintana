@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-#### Cross-Functional, Part-Time MSCS Student looking for Work!
+#### Cross-Functional, Part-Time MSCS Student looking for...
 🔎 Robotics Software Engineer, Robotics System Engineer, or GNC Engineer roles focusing to enable complex systems with spatial awareness, navigation, and more.
 
 #### Currently...
