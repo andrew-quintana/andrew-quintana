@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 #### Cross-Functional, Part-Time MSCS Student looking for...
-🔎 System, Software, GNC Engineer role in robotics, AVs, etc.
+🔎 System, Software, GNC Engineer role in robotics, AVs, satelites, etc.
 
 #### Currently...
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu) (Remote and Part-Time)<br />
