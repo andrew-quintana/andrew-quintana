@@ -16,4 +16,4 @@
 🎓 Bachelors in Mechanical Engineering at Miami University focusing on multi-disciplinary systems (Minor in Spanish)<br />
 
 #### Interests
-💡 Soccer (Football), Robotics, Photography, Traveling, Outdoors, Cooking, Psychology
+💡 Soccer (Football), Robotics, Photography, Traveling, Outdoors, Cooking, Psychology, AI
