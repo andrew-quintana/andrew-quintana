@@ -1,7 +1,7 @@
 ### Hi there 👋🏽
 
 #### I'm a Cross-Functional Engineer, Part-Time MSCS Student looking for...
-🔎 Robotic Systems, Software, Engineer role in robotics/AVs
+🔎 Robotic Systems/Software Engineering role in robotics/AVs
 
 #### Currently...
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu) (Remote and Part-Time)<br />
