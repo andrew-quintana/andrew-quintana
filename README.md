@@ -13,7 +13,7 @@
 🍔 System Test Engineer, Subsystem Technical Lead at Creator, Inc automating the hamburger preparation process. (Culinary Robotics)<br />
 🩺 Systems/Development Engineer at Applied Medical, developing surgical tools in a vertically integrated environment (Medical Devices)<br />
 🧑‍💻 Mechanical Engineer at Suitable Technologies (now GoBe Robots), developing a robot resembling an iPad on wheels. (Telepresence Robotics)<br />
-🎓 Bachelors in Mechanical Engineering at Miami University focusing on multi-disciplinary systems (Minor in Spanish)<br />
+🎓 Bachelors in Mechanical Engineering at Miami University focusing on electromechanical systems (Minor in Spanish)<br />
 
 #### Interests
 💡 Soccer (Football), Robotics, AI, Photography, Traveling, Outdoors, Cooking, Psychology
