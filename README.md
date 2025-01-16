@@ -3,7 +3,6 @@
 #### Currently...
 📚 OMSCS Student at [Georgia Institute of Technology](https://omscs.gatech.edu) (Remote and Part-Time)<br />
 🤖 Masters Specializations: [Computational Perception and Robotics](https://omscs.gatech.edu/specialization-computational-perception-robotics)<br />
-🚗 Personal Project: [AV Robotics Platform on Nvidia Jetson Nano](https://github.com/andrew-quintana/av_robotics_platform)<br />
 
 #### Before that...
 🐕 AI Software Engineering Intern at Transcoder making dog behavior recognition software (Computer Vision/Deep Learning)<br />
