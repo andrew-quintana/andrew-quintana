@@ -6,7 +6,7 @@
 
 #### Before that...
 🐕 AI Software Engineering Intern at Transcoder making dog behavior recognition software (Computer Vision/Deep Learning)<br />
-🍔 System Test Engineer, Subsystem Technical Lead at Creator, Inc automating the hamburger preparation process. (Culinary Robotics)<br />
+🍔 System Test Engineer, Subsystem Technical Lead at Creator, Inc automating the hamburger preparation process. (Culinary Robotics)[US20230108903A1](https://patents.google.com/patent/US20230108903A1/en)<br />
 🩺 Systems/Development Engineer at Applied Medical, developing surgical tools in a vertically integrated environment (Medical Devices)<br />
 🧑‍💻 Mechanical Engineer at Suitable Technologies (now GoBe Robots), developing a robot resembling an iPad on wheels. (Telepresence Robotics)<br />
 🎓 Bachelors in Mechanical Engineering at Miami University focusing on electromechanical systems (Minor in Spanish)<br />
