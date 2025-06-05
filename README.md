@@ -50,7 +50,7 @@ Custom lifecycle management for datasets, models, and performance metadata
 
 ### 💡 Outside of Tech
 I love soccer (⚽️), nature, cooking new meals, and journaling.  
-Curious about how we can build tools that empower people — not overwhelm them.
+Curious about how we can build tools that empower people and create new value.
 
 ---
 
