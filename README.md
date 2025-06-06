@@ -1,6 +1,6 @@
 ### Hi there 👋🏽 I'm Andrew
 
-Engineer with a background in robotics, manufacturing, and systems engineering — now building intelligent, modular AI systems grounded in real-world reliability.
+Engineer with a background in robotics, manufacturing, and systems engineering — now building intelligent, modular AI systems grounded in real-world reliability. Aiming to empower individuals, deliver new forms of value, and solve complex problems.
 
 ---
 
