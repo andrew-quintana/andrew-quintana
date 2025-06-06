@@ -6,9 +6,9 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 
 ### 👨🏽‍💻 Current Focus
 🔬 Finishing my M.S. in Computer Science (AI & Robotics) at Georgia Tech  
-🧠 Designing multi-agent LLM applications with real users in mind  
-📁 Exploring retrieval-augmented generation (RAG), LangGraph, and prompt engineering  
-📜 Earning NVIDIA & IBM certifications in LLM workflows and full stack software
+🧠 Designing multi-agent LLM workflows using LangGraph and ReAct for real-world applications
+🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)
+📝 Specializing in prompt engineering and retrieval-augmented generation (RAG) strategies
 
 ---
 
@@ -49,8 +49,7 @@ Custom lifecycle management for datasets, models, and performance metadata
 ---
 
 ### 💡 Outside of Tech
-I love soccer (⚽️), nature, cooking new meals, and journaling.  
-Curious about how we can build tools that empower people and create new value.
+I love soccer, nature, cooking, community, and reading.
 
 ---
 
