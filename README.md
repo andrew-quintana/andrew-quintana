@@ -8,7 +8,6 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 🔬 Finishing my M.S. in Computer Science (AI & Robotics) at Georgia Tech  
 🧠 Designing multi-agent LLM workflows using LangGraph and ReAct for real-world applications  
 🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)  
-📝 Specializing in prompt engineering and retrieval-augmented generation (RAG) strategies  
 
 ---
 
