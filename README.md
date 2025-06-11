@@ -34,7 +34,7 @@ Custom lifecycle management for datasets, models, and performance metadata
 
 ### 🧠 Past Roles
 - 🐶 **ML/MLOps Engineering Intern** @ Transcoder – behavior recognition in dogs via CV  
-- 🍔 **Subsystem Lead/System Test Engineer** @ Creator – patented sauce robot, test automation, reliability
+- 🍔 **Subsystem Lead/System Test Engineer** @ Creator – test strategy/execution, system reliability, quality systems, sauce robot lead
     - see [Patent US20230108903A1](https://patents.google.com/patent/US20230108903A1/en)
 - 🩺 **Systems Engineer I/II** @ Applied Medical – vertically integrated process and quality systems  
 - 🤖 **Mechanical Engineer** @ Suitable Technologies – telepresence robotics
