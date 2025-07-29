@@ -26,12 +26,6 @@ Custom lifecycle management for datasets, models, and performance metadata
 
 ---
 
-### ✅ Certifications
-- 🧭 **NVIDIA DLI**: Prompt Engineering, RAD, _RAG Agents, Agentic AI Apps_ *(2025)*
-- 📈 **ASQ**: Lean Six Sigma Yellow Belt *(2020)*
-
----
-
 ### 🧠 Past Roles
 - 🐶 **ML/MLOps Engineering Intern** @ Transcoder – suported and developed behavior recognition for dogs  
 - 🍔 **Subsystem Lead/System Test Engineer** @ Creator – design, test, reliability, quality for system and as lead of sauce robot
