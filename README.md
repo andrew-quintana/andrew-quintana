@@ -5,8 +5,7 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ---
 
 ### 👨🏽‍💻 Current Focus
-🔬 Finishing my M.S. in Computer Science (AI & Robotics) at Georgia Tech  
-🧠 Designing multi-agent LLM workflows using LangGraph and ReAct for real-world applications  
+🧠 Designing & implementing multi-agent LLM workflows using LangGraph and ReAct for real-world applications  
 🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)  
 
 ---
@@ -25,6 +24,10 @@ Custom lifecycle management for datasets, models, and performance metadata
 `Python · SQL · Google Cloud APIs · Toloka`
 
 ---
+
+### 🏫 Education
+- 💻 **Master of Science in Computer Science** @ Georgia Institute of Technology - specializtion in AI and Robotics
+- ⚙️ **Bachelor of Science in Mechanical Engineering** @ Miami Univeristy: Oxford - focus in robotics and a minor in Spanish
 
 ### 🧠 Past Roles
 - 🐶 **ML/MLOps Engineering Intern** @ Transcoder – suported and developed behavior recognition for dogs  
