@@ -5,7 +5,7 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ---
 
 ### 👨🏽‍💻 Current Focus
-🧠 Designing & implementing multi-agent LLM workflows using LangGraph and ReAct for real-world applications  
+🧠 Designing & implementing RAG-enabled workflows using LangGraph and ReAct for real-world applications  
 🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)  
 
 ---
