@@ -11,7 +11,7 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ---
 
 ### ⚙️ Recent Projects
-**🔹 Multi-Agent LLM-Orchestrated Regulatory Assistant**  
+**🔹 Multi-Agent LLM-Orchestrated Insurance Navigator**  
 Semantic search + document upload + conversational agent planning for real-world regulations  
 `LangGraph · ReAct · RAG · SBERT · pgvector · Supabase · FastAPI · Next.js`
 
