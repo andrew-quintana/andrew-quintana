@@ -30,8 +30,8 @@ Custom lifecycle management for datasets, models, and performance metadata
 - ⚙️ **Bachelor of Science in Mechanical Engineering** @ Miami Univeristy: Oxford - focus in robotics and a minor in Spanish
 
 ### 🧠 Past Roles
-- 🎥 **AI Engineering Intern** @ Marin AI Director's Assistant - building out AI evaluations and their infrastructure for a AI video generation pipeline
-- 🐶 **ML/MLOps Engineering Intern** @ SuperTranslator – suported and developed behavior recognition ML pipeline for decoding dog communication
+- 🎥 **AI Engineering Intern** @ Marin AI - building out AI evaluations and their infrastructure for a AI video generation pipeline
+- 🐶 **ML/MLOps Engineering Intern** @ SuperTranslator – suported and developed dog communication decoding pipeline
 - 🍔 **Subsystem Lead/System Test Engineer** @ Creator – design, test, reliability, quality for system and as lead of sauce robot
     - see [Patent US20230108903A1](https://patents.google.com/patent/US20230108903A1/en)
 - 🩺 **Systems Engineer I/II** @ Applied Medical – R&D and systems engineering in vertically integrated environment
