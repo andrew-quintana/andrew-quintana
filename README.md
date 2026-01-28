@@ -56,5 +56,5 @@ I love soccer, nature, cooking, community, and reading.
 ---
 
 📫 Reach me at: **[sendaqmail@gmail.com](mailto:sendaqmail@gmail.com)**  
-🔗 Learn more about my path here: [LinkedIn](https://linkedin.com/in/andrewmquintana)
+🔗 Learn more about my path here: [LinkedIn](https://linkedin.com/in/andrewmquintana)  
 📜 Check out my resume here: [Resume](https://drive.google.com/file/d/1LW8v_XfZ1IrPohY_6iCb6ewoGdhw9RQK/view?usp=share_link)
