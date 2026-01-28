@@ -13,7 +13,7 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ### ⚙️ Recent Projects
 **🔹 RAGLab Evaluation and Observability Sandbox**
 End-to-end testbed for retrieval quality, grounding, and hallucination risk. Benchmarks RAG configurations and runs repeatable LLM-as-judge evaluations with traceable runs and metrics.  
-`RAG · Evaluation Harness · LLM-as-Judge · LangGraph/LangChain · pgvector · Azure · Python/FastAPI · Dashboards/Monitoring`
+`RAG · Evaluation Harness · LLM-as-Judge · LangGraph/LangChain · pgvector · Azure · Dashboards/Monitoring`
 
 **🔹 Multi-Agent LLM-Orchestrated Insurance Navigator**  
 Semantic search + document upload + conversational agent planning for real-world regulations  
