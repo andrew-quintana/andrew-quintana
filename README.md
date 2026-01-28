@@ -11,6 +11,10 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ---
 
 ### ⚙️ Recent Projects
+**🔹 RAGLab Evaluation and Observability Sandbox**
+End-to-end testbed for retrieval quality, grounding, and hallucination risk. Benchmarks RAG configurations and runs repeatable LLM-as-judge evaluations with traceable runs and metrics.
+`RAG · Evaluation Harness · LLM-as-Judge · LangGraph/LangChain · pgvector · Azure · Python/FastAPI · Dashboards/Monitoring`
+
 **🔹 Multi-Agent LLM-Orchestrated Insurance Navigator**  
 Semantic search + document upload + conversational agent planning for real-world regulations  
 `LangGraph · ReAct · RAG · SBERT · pgvector · Supabase · FastAPI · Next.js`
@@ -53,3 +57,4 @@ I love soccer, nature, cooking, community, and reading.
 
 📫 Reach me at: **[sendaqmail@gmail.com](mailto:sendaqmail@gmail.com)**  
 🔗 Learn more about my path here: [LinkedIn](https://linkedin.com/in/andrewmquintana)
+📜 Check out my resume here: [Resume](https://drive.google.com/file/d/1LW8v_XfZ1IrPohY_6iCb6ewoGdhw9RQK/view?usp=share_link)
