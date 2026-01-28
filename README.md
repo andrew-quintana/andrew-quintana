@@ -6,7 +6,9 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 
 ### 👨🏽‍💻 Current Focus
 🧠 Designing & implementing RAG-enabled workflows using LangGraph and ReAct for real-world applications  
-🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)  
+🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)
+🛍️ Building out multi-tenant recommendation engine and feedback loops for fashion ecommerce at Sail
+⚗️ Developing evaluations for top AI labs at Mercor.
 
 ---
 
