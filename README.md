@@ -5,10 +5,7 @@ Engineer with a background in robotics, manufacturing, and systems engineering �
 ---
 
 ### 👨🏽‍💻 Current Focus
-🧠 Designing & implementing RAG-enabled workflows using LangGraph and ReAct for real-world applications  
-🛠️ Developing full stack prototypes with integrated AI pipelines (Next.js · FastAPI · Supabase)
-🛍️ Building out multi-tenant recommendation engine and feedback loops for fashion ecommerce at Sail
-⚗️ Developing evaluations for top AI labs at Mercor.
+👥 **SDET** @ Gumloop: Building out autonomous feedback loops to drive development forward while maintaining a high level of quality
 
 ---
 
@@ -35,7 +32,9 @@ Custom lifecycle management for datasets, models, and performance metadata
 - 💻 **Master of Science in Computer Science** @ Georgia Institute of Technology - specializtion in AI and Robotics
 - ⚙️ **Bachelor of Science in Mechanical Engineering** @ Miami Univeristy: Oxford - focus in robotics and a minor in Spanish
 
-### 🧠 Past Roles
+### 💼 Past Roles
+- ⚗️ **AI Training QC** @ Mercor: Developing and validating evaluations for top AI labs
+- 🛍️ **AI Engineer** @ Sail: Built out multi-tenant recommendation engine and feedback loops for fashion ecommerce
 - 🎥 **AI Engineering Intern** @ Marin AI - building out AI evaluations and their infrastructure for a AI video generation pipeline
 - 🐶 **ML/MLOps Engineering Intern** @ SuperTranslator – suported and developed dog communication decoding pipeline
 - 🍔 **Subsystem Lead/System Test Engineer** @ Creator – design, test, reliability, quality for system and as lead of sauce robot
